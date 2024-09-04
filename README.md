@@ -1,5 +1,14 @@
-# Text-To-Speech-Converter
-This micro project, created using HTML, CSS, and JavaScript, takes any written input from the user and successfully converts it to speech utilizing the audio services available on the device.
+#VoiceTextify
+
+VoiceTextify is a web-based application that allows users to convert text into speech using Google APIs. The application provides an intuitive and interactive interface where users can input any text, choose a preferred voice, and listen to the text being spoken aloud. The core functionality revolves around the browser's SpeechSynthesis API, which powers the text-to-speech conversion.
+
+Key Features:
+ 
+1.Text Input Area: A large, responsive textarea where users can write or paste any text they want to 
+convert to speech.
+2.Voice Selection: A dropdown menu populated with various voices available through the browser's speech synthesis capabilities. Users can select their preferred voice for speech output.
+3.Play Button: A button that, when clicked, reads the input text aloud using the selected voice.
+4.Responsive Design: The user interface is designed with responsiveness in mind, ensuring a smooth experience across different devices.
 
 The provided HTML, CSS, and JavaScript code together create a simple Text-to-Speech (TTS) converter web application. Here's a detailed breakdown of each part and how they work together:
 
